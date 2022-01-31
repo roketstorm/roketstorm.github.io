@@ -45183,7 +45183,7 @@ A.Dp.prototype={
 O(a,b){var s=null,r=t.p
 return new A.qi(A.I4(A.qG(B.bd,A.a([B.At,new A.jJ(B.w9,A.a1G(A.a([B.FT,B.w1,A.a3i(A.a([A.lj(s,B.wf,B.a6,!1,s,s,s,s,s,s,s,s,s,s,new A.Va(),s,s,s,s,s),A.lj(s,B.wd,B.a6,!1,s,s,s,s,s,s,s,s,s,s,new A.Vb(),s,s,s,s,s),A.lj(s,B.wg,B.a6,!1,s,s,s,s,s,s,s,s,s,s,new A.Vc(),s,s,s,s,s),A.lj(s,B.wh,B.a6,!1,s,s,s,s,s,s,s,s,s,s,new A.Vd(),s,s,s,s,s),A.lj(s,B.we,B.a6,!1,s,s,s,s,s,s,s,s,s,s,new A.Ve(),s,s,s,s,s)],r),B.zZ,B.ed)],r),B.ds,B.zY,B.ed),s)],r),B.bX),s,s),B.l,s)}}
 A.Va.prototype={
-$0(){return A.kA("https://linkedin.com/roketstorm")},
+$0(){return A.kA("https://www.linkedin.com/in/roketstorm/")},
 $S:0}
 A.Vb.prototype={
 $0(){return A.kA("https://github.com/roketstorm")},
@@ -45192,7 +45192,7 @@ A.Vc.prototype={
 $0(){return A.kA("https://t.me/roketpik")},
 $S:0}
 A.Vd.prototype={
-$0(){return A.kA("todo:resumewillbehere")},
+$0(){return A.kA("https://github.com/roketstorm/roketstorm.github.io/raw/master/Artur-Shamsutdinov.pdf")},
 $S:0}
 A.Ve.prototype={
 $0(){return A.kA("mailto:a.shamsutdinov@icloud.com")},
