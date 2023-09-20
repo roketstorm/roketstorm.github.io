@@ -1,5 +1,7 @@
 # RoketStorm personal web page
 
+[![pages-build-deployment](https://github.com/roketstorm/roketstorm.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/roketstorm/roketstorm.github.io/actions/workflows/pages/pages-build-deployment)
+
 powered by
 
 # 🔗 LittleLink
